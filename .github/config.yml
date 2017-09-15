@@ -5,13 +5,13 @@ updateDocsWhiteList:
 
 updateDocsComment: >
   Thanks for opening this pull request! The maintainers of this repository would appreciate it if you would update some of our documentation based on your changes.
-requestInfoDefaultTitles:
-  - update readme.md
-  - updates
+#requestInfoDefaultTitles:
+ # - update readme.md
+ # - updates
 
-requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
-requestInfoLabelToAdd: request-more-info
+#requestInfoReplyComment: >
+ # We would appreciate it if you could provide us with more info about this issue/pr!
+#requestInfoLabelToAdd: request-more-info
 
 newPRWelcomeComment: >
   :sparkles: Thanks so much for opening your first PR here, make sure to follow the contributing guidelines! :sparkles:
